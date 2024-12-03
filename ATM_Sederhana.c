@@ -50,7 +50,7 @@ int main() {
                 printf("Terima kasih telah menggunakan layanan ATM Saint John\n");
                 break;
             default: // Pilihan tidak valid
-                printf("Pilihan menu tidak valid. Silakan coba lagi.\n");
+                printf("Pilihan tidak valid. Silakan coba lagi.\n");
                 break;
         }
     } while (pilihan != 4);
