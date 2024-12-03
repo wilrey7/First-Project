@@ -1,3 +1,6 @@
+// Program Manipulasi String dan Operasi Matematika
+// By : William Reynold Pramudya
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
