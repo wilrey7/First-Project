@@ -7,10 +7,10 @@ int main() {
     double saldo = 1000000.0; // Saldo awal
     double jumlah;
     
-    printf("======= SELAMAT DATANG =======");
+    printf("------- SELAMAT DATANG -------");
 
     do {
-        printf("\n=== LAYANAN ATM SAINT JOHN ===\n");
+        printf("\n--- LAYANAN ATM SAINT JOHN ---\n");
         printf("1. Cek Saldo\n");
         printf("2. Tarik Uang\n");
         printf("3. Setor Uang\n");
